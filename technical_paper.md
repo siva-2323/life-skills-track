@@ -2,7 +2,7 @@
 
 ## Full-text search
 
-Full-text search is a query that returns some or all of the words from the query. It has search features like fuzzy text as well as synonyms. Traditional databases are easy to store and retrieve data when compared with the full-text search but, Full-text indexes offer more flexibility in terms of matching words than standard database search. Full-text search is the most common technique used in Web search engines.
+Full-text query returns any documents that contain at least one match. It has search features like fuzzy text as well as synonyms. Traditional databases are easy to store and retrieve data when compared with the full-text search but, Full-text indexes offer more flexibility in terms of matching words than standard database search. Full-text search is the most common technique used in Web search engines.
 
 
 ## Lucene 
