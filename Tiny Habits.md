@@ -4,6 +4,12 @@
 
 Readers will learn about the ground-breaking Little Habits technique, which has assisted thousands of people in creating the life of their dreams, in this video explanation of The Small Changes that Change Everything. Because everything about living a better, healthier life can be simple and enjoyable.
 
+- Making new habits small makes them easier to repeat and allows for long-term consistency in behaviour.
+- If I can learn how to form even the smallest of habits, my life will change.
+- The three components of behaviour change are trigger, ability, and motivation.
+- Tiny habits are simple to implement and require less motivation. This is why developing a habit in this manner becomes simple.
+- I have to interlock a tiny habit with an existing habit in order to use the tiny habit format. After completing an existing habit, perform a new, brief habit.
+
 ### 2. Your takeaways from the video in as much detail as possible
 
 With the Tiny Habits method, you focus on small actions that you can do in less than thirty seconds. You can disrupt a behavior you don't want by removing the prompt. This isn't always easy, but removing the prompt is your best first move to stop a behavior from happening.
